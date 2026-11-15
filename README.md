@@ -1,2 +1,2 @@
 # botcuya-release
-Official public APK releases for BOT-CUYA AndroidOs
+BOT-CUYA Official APK Releases
