@@ -187,7 +187,7 @@ Jika masalah berlanjut, sertakan versi aplikasi, tipe perangkat, dan langkah yan
 | Komponen | Tautan |
 |---|---|
 | Distribusi APK dan rilis | [botcuya-release](https://github.com/Adminpapsky/botcuya-release) |
-| Source code dan dokumentasi teknis | [Disembunyikan](https://wa.me/628172300004 |
+| Source code dan dokumentasi teknis | [Disembunyikan] https://wa.me/628172300004 |
 | Unduhan versi terbaru | [Latest Release](https://github.com/Adminpapsky/botcuya-release/releases/latest) |
 
 ## 💚 Dukungan dan kontribusi
@@ -202,8 +202,8 @@ Terima kasih telah menggunakan BOT-CUYA dan mendukung pengembangan proyek ini.
 
 **BOT-CUYA — Smart Tools for Your WhatsApp Workflow**
 
-_Dibuat dan dikembangkan oleh Adminpapsky._
+_Dibuat dan dikembangkan oleh Surya Alfarizky._
 
-[⬇️ Download APK](https://github.com/Adminpapsky/botcuya-release/releases/latest) · [📦 Source Code](https://github.com/Adminpapsky/botcuya-app) · [📝 Releases](https://github.com/Adminpapsky/botcuya-release/releases)
+[⬇️ Download APK](https://github.com/Adminpapsky/botcuya-release/releases/latest) · [📦 Source Code](https://wa.me/628172300004) · [📝 Releases](https://github.com/Adminpapsky/botcuya-release/releases)
 
 </div>
