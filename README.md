@@ -187,7 +187,7 @@ Jika masalah berlanjut, sertakan versi aplikasi, tipe perangkat, dan langkah yan
 | Komponen | Tautan |
 |---|---|
 | Distribusi APK dan rilis | [botcuya-release](https://github.com/Adminpapsky/botcuya-release) |
-| Source code dan dokumentasi teknis | [botcuya-app](https://github.com/Adminpapsky/botcuya-app) |
+| Source code dan dokumentasi teknis | [Disembunyikan](https://wa.me/628172300004 |
 | Unduhan versi terbaru | [Latest Release](https://github.com/Adminpapsky/botcuya-release/releases/latest) |
 
 ## 💚 Dukungan dan kontribusi
